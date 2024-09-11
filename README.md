@@ -2,8 +2,8 @@
 Personal gesture and Alexa controlled robot
 
 ## Team
-- Nazari Tuyo nazarituyo@brandeis.edu
 - Helen Lin helenlin@brandeis.edu
+- Nazari Tuyo nazarituyo@brandeis.edu
 
 ## Project Introduction
 Our final project is a mini scouter robot that can be controlled through hand gestures and voice commands. The robot uses a Leap Motion Controller to detect hand gestures and an Alexa to detect voice commands from the user. It then makes actions depedning on the commands it receives from either the Alexa (which takes priority; gestures are paused if a voice command is detected) or the Leap Motion Controller.
@@ -200,7 +200,3 @@ If humans can’t enter an area because of unforeseen danger, what could be used
 - Takes in messages from both queues (Leap and Alexa)
 - Interprets messages based on motion input
 - Publishes results and starts robot movement 
-- 
-##### Helen: I would like our project to be evaluated based on the accuracy of the information we are taking from the motion sensor and applying to the program. I would like our project to be evaluated on how well the robot executes an action based on the hand motion displayed. 
-
-##### Nazari: I’d like to be evaluated on our approach towards resolving the issues that come up when trying to utilize the LEAP controller. Something that I feel is often overlooked during the implementation process for projects are the problems that come up along the way, and when they’re not tracked, it’s difficult to recall them. I think the a way I'd like to to be evaluated is through a written log.
